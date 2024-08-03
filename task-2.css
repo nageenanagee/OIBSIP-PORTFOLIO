@@ -1,0 +1,230 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .container {
+    height: 900vh;
+  }
+  .navbar-bg {
+    background-color: white;
+    border: 2px solid black;
+  }
+  .logo {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  .logo:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .toggler {
+    background-color: white;
+    border-radius: 30px;
+    border: 2px solid black;
+  }
+  
+  .toggler:hover {
+    background-color: black;
+    border-radius: 40px;
+  }
+  
+  .home {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .home:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .skills {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .skills:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .projects {
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+  }
+  .projects:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .about {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .about:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .contact {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .contact:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .heading {
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+    padding: 20px;
+  }
+  .heading:hover {
+    color: white;
+    background-color: black;
+  }
+  
+  .para {
+    font-weight: normal;
+    font-size: 30px;
+    font-style: italic;
+  }
+  
+  .img {
+    padding: 30px;
+    height: 260px;
+    width: 600px;
+    border-radius: 50%;
+  }
+  
+  .skills-heading {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+  }
+  .skills-heading:hover {
+    background-color: black;
+    color: white;
+  }
+  .skills-para {
+    font-weight: boldest;
+    font-style: italic;
+    font-size: 30px;
+  }
+  .projects-heading {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+  }
+  .projects-heading:hover {
+    background-color: black;
+    color: white;
+  }
+  .about-heading {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+  }
+  .about-heading:hover {
+    background-color: black;
+    color: white;
+  }
+  .about-para {
+    font-style: italic;
+    font-size: 25px;
+  }
+  .about-img {
+    height: 30vh;
+    width: 30vw;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+  }
+  .contact-heading {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+  }
+  .contact-heading:hover {
+    background-color: black;
+    color: white;
+  }
+  .card-1 {
+    height: 330px;
+    border: 3px black solid;
+    border-radius: 20px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .card-img-top-1 {
+    height: 40px;
+    width: 60px;
+  }
+  
+  .card-2 {
+    height: 330px;
+    border: 3px black solid;
+    border-radius: 20px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-img-top-2 {
+    height: 155px;
+    width: 285px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .card-3 {
+    height: 135px;
+    border: 3px black solid;
+    border-radius: 20px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-img-top-3 {
+    height: 50px;
+    width: 60px;
+    padding: 5px;
+  }
+  .img-1 {
+    height: 20px;
+    width: 30px;
+  }
+  
+  .card {
+    height: 190px;
+    width: 80vw;
+  }
+  .card:hover {
+    height: 190px;
+    width: 80vw;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+  }
+  .container-1 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
